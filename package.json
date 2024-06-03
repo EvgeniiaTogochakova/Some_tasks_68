@@ -1,0 +1,24 @@
+{
+  "name": "random-riddles-10",
+  "version": "1.0.0",
+  "description": "Get 10 simple Russian riddles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniiaTogochakova/Some_tasks_68.git"
+  },
+  "keywords": [
+    "Russian",
+    "riddles"
+  ],
+  "author": "Evgeniia Togochakova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgeniiaTogochakova/Some_tasks_68/issues"
+  },
+  "homepage": "https://github.com/EvgeniiaTogochakova/Some_tasks_68#readme",
+  "type": "module"
+}
